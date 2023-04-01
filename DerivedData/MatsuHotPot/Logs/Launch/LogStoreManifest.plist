@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>68BBDCB7-01F4-4692-BB6B-B62B3EB44ABD</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>D66A5129-65F5-4CA7-A630-8776FCC0CA5B</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-MatsuHotPot-2023.03.31_12-13-20-+0800.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>MatsuHotPot project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MatsuHotPot</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run MatsuHotPot</string>
+			<key>timeStartedRecording</key>
+			<real>701928800.59265196</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run MatsuHotPot</string>
+			<key>uniqueIdentifier</key>
+			<string>68BBDCB7-01F4-4692-BB6B-B62B3EB44ABD</string>
+		</dict>
+		<key>DF50EF43-A643-4140-880C-487B40C2D5EE</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>F7174ED9-7C85-4051-B88E-D6F5DAA99904</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-MatsuHotPot-2023.04.01_14-50-44-+0800.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>MatsuHotPot project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MatsuHotPot</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run MatsuHotPot</string>
+			<key>timeStartedRecording</key>
+			<real>702024644.62140298</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run MatsuHotPot</string>
+			<key>uniqueIdentifier</key>
+			<string>DF50EF43-A643-4140-880C-487B40C2D5EE</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

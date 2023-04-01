@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>D66A5129-65F5-4CA7-A630-8776FCC0CA5B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D66A5129-65F5-4CA7-A630-8776FCC0CA5B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>MatsuHotPot project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MatsuHotPot</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build MatsuHotPot</string>
+			<key>timeStartedRecording</key>
+			<real>701928800.59537804</real>
+			<key>timeStoppedRecording</key>
+			<real>701928803.24811494</real>
+			<key>title</key>
+			<string>Build MatsuHotPot</string>
+			<key>uniqueIdentifier</key>
+			<string>D66A5129-65F5-4CA7-A630-8776FCC0CA5B</string>
+		</dict>
+		<key>F7174ED9-7C85-4051-B88E-D6F5DAA99904</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>F7174ED9-7C85-4051-B88E-D6F5DAA99904.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>MatsuHotPot project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MatsuHotPot</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build MatsuHotPot</string>
+			<key>timeStartedRecording</key>
+			<real>702024644.62618303</real>
+			<key>timeStoppedRecording</key>
+			<real>702024650.82360399</real>
+			<key>title</key>
+			<string>Build MatsuHotPot</string>
+			<key>uniqueIdentifier</key>
+			<string>F7174ED9-7C85-4051-B88E-D6F5DAA99904</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+{
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "A7459A09BB8A742AEB04EF7493F6AD0AA8E7AD2B" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "AB1627F3-0DC5-4629-8AE1-E1775043C513",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "A7459A09BB8A742AEB04EF7493F6AD0AA8E7AD2B" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "MatsuHotPot",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "MatsuHotPot.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/JohnnyC666\/-.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "A7459A09BB8A742AEB04EF7493F6AD0AA8E7AD2B"
+    }
+  ]
+}
