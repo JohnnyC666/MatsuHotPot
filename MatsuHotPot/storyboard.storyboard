@@ -380,7 +380,7 @@
                                 </buttonConfiguration>
                             </button>
                             <datePicker contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" datePickerMode="date" translatesAutoresizingMaskIntoConstraints="NO" id="436-bz-kNX">
-                                <rect key="frame" x="234" y="554" width="115" height="46"/>
+                                <rect key="frame" x="233" y="554" width="116" height="46"/>
                                 <autoresizingMask key="autoresizingMask" widthSizable="YES" flexibleMaxY="YES"/>
                                 <locale key="locale" localeIdentifier="en_TW"/>
                             </datePicker>
@@ -1459,6 +1459,14 @@
                                     </userDefinedRuntimeAttribute>
                                 </userDefinedRuntimeAttributes>
                             </view>
+                            <segmentedControl opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="left" contentVerticalAlignment="top" segmentControlStyle="plain" translatesAutoresizingMaskIntoConstraints="NO" id="P5d-3A-i7S">
+                                <rect key="frame" x="53" y="563" width="314" height="32"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <segments>
+                                    <segment title="兌換紀錄"/>
+                                    <segment title="二維條碼"/>
+                                </segments>
+                            </segmentedControl>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="TR7-Ig-Lap"/>
                         <color key="backgroundColor" red="0.99215686319999996" green="0.96470588450000005" blue="0.93333339689999995" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
@@ -1470,7 +1478,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="gWF-vi-DGu" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="-475" y="-557"/>
+            <point key="canvasLocation" x="-475.36231884057975" y="-557.14285714285711"/>
         </scene>
         <!--View Controller-->
         <scene sceneID="gMj-qO-AJ6">
@@ -2241,11 +2249,11 @@
     </scenes>
     <inferredMetricsTieBreakers>
         <segue reference="yYK-Oc-7WE"/>
-        <segue reference="8bK-mO-cae"/>
+        <segue reference="XUk-2L-3mP"/>
         <segue reference="JZc-DK-H09"/>
-        <segue reference="rrI-tf-84A"/>
+        <segue reference="2ly-ia-s1l"/>
         <segue reference="WuE-4d-hXK"/>
-        <segue reference="ktc-UM-Xxj"/>
+        <segue reference="6jt-8M-9IE"/>
         <segue reference="oGC-rv-GIW"/>
         <segue reference="Eo6-OC-9kK"/>
         <segue reference="Vg7-TH-csC"/>

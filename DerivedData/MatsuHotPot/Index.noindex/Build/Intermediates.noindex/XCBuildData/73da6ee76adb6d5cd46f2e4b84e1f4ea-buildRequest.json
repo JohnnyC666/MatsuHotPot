@@ -1,0 +1,59 @@
+{
+  "_buildCommand2" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : true,
+    "targets" : null
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "8f3ccd239e7a0b353de8337d26c4ffd142e877d8e31321615906ea32b1def550"
+    }
+  ],
+  "containerPath" : "/Users/johnnychen/Desktop/Swift/Side Project/松火鍋/MatsuHotPot/MatsuHotPot.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "indexbuild",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator16.2",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/johnnychen/Desktop/Swift/Side Project/松火鍋/MatsuHotPot/DerivedData/MatsuHotPot/Index.noindex/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/johnnychen/Desktop/Swift/Side Project/松火鍋/MatsuHotPot/DerivedData/MatsuHotPot/Index.noindex/Build/Products",
+      "derivedDataPath" : "/Users/johnnychen/Desktop/Swift/Side Project/松火鍋/MatsuHotPot/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/johnnychen/Desktop/Swift/Side Project/松火鍋/MatsuHotPot/DerivedData/MatsuHotPot/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/johnnychen/Desktop/Swift/Side Project/松火鍋/MatsuHotPot/DerivedData/MatsuHotPot/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/johnnychen/Desktop/Swift/Side Project/松火鍋/MatsuHotPot/DerivedData/MatsuHotPot/Index.noindex/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "INDEX_ARENA_INFO_REGULAR_BUILD_PRODUCTS_DIR" : "/Users/johnnychen/Desktop/Swift/Side Project/松火鍋/MatsuHotPot/DerivedData/MatsuHotPot/Build/Products",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "default",
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}
