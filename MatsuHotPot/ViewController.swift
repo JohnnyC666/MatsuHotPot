@@ -13,8 +13,12 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
+        let tapGesture = UITapGestureRecognizer(target: self, action: #selector(dismissKeyboard))
+        view.addGestureRecognizer(tapGesture)
     }
-
+    @objc func dismissKeyboard() {
+        view.endEditing(true)
+    }
 
     @IBOutlet weak var phoneNumber: UITextField!
     @IBOutlet weak var Password: UITextField!
@@ -46,9 +50,10 @@ class ViewController: UIViewController {
                 AudioServicesPlayAlertSound(soundID)
             }
             let alert = UIAlertController(title: "登入失敗", message: "電話號碼或密碼錯誤", preferredStyle: .alert)
-            alert.addAction(
-                UIAlertAction(title: "確定", style: .default, handler: nil)
-            )
+            let okAction = UIAlertAction(title: "確定", style: .default, handler: nil)
+            okAction.setValue(UIColor.red, forKey: "titleTextColor")
+            alert.addAction(okAction)
+            
             present(alert, animated: true, completion: nil)
         }
     }

@@ -289,6 +289,7 @@ SWIFT_CLASS("_TtC11MatsuHotPot13SceneDelegate")
 SWIFT_CLASS("_TtC11MatsuHotPot14ViewController")
 @interface ViewController : UIViewController
 - (void)viewDidLoad;
+- (void)dismissKeyboard;
 @property (nonatomic, weak) IBOutlet UITextField * _Null_unspecified phoneNumber;
 @property (nonatomic, weak) IBOutlet UITextField * _Null_unspecified Password;
 - (IBAction)forgetPassword:(UIButton * _Nonnull)sender;

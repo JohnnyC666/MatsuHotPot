@@ -1,8 +1,8 @@
 version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
 options: "34d5201d2c23344346c896386e7ae3d38ff6d370e4c7b93f6bd2d8c2650e2920"
-build_start_time: [1680496070, 593333959]
-build_end_time: [1680496073, 633101940]
+build_start_time: [1680709734, 13952016]
+build_end_time: [1680709735, 329773902]
 inputs:
   "/Users/johnnychen/Desktop/Swift/Side Project/\u677E\u706B\u934B/MatsuHotPot/MatsuHotPot/AppDelegate.swift": [1680228938, 393202781]
   "/Users/johnnychen/Desktop/Swift/Side Project/\u677E\u706B\u934B/MatsuHotPot/MatsuHotPot/SceneDelegate.swift": [1680228938, 396665573]
-  "/Users/johnnychen/Desktop/Swift/Side Project/\u677E\u706B\u934B/MatsuHotPot/MatsuHotPot/ViewController.swift": [1680496070, 274079322]
+  "/Users/johnnychen/Desktop/Swift/Side Project/\u677E\u706B\u934B/MatsuHotPot/MatsuHotPot/ViewController.swift": [1680709733, 874563455]
